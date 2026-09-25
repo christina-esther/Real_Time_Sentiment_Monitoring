@@ -171,13 +171,6 @@ Run `python Spark/benchmark.py --rows 400000` to reproduce the measured comparis
 
 ---
 
-## Academic deliverables
-
-* `Report/PROJECT_REPORT.md` — 11 chapters (introduction → future scope)
-* `PPT/PPT_CONTENT.md` — slide-by-slide presentation content
-* `Report/VIVA_QA.md` — 40 viva questions with model answers
-* `docs/ARCHITECTURE.md` — component and data-flow description
-
 ## License
 
 MIT — free to use for academic submission and portfolio.
