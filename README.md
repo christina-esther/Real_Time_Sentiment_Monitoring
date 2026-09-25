@@ -64,11 +64,6 @@ Real_Time_Sentiment_Monitoring/
 │   ├── mongo_client.py    # collection, indexes, aggregations
 │   └── schema.md
 ├── Models/                # best_model/, metrics.json (generated)
-├── Report/
-│   ├── PROJECT_REPORT.md  # 11-chapter academic report
-│   └── VIVA_QA.md         # 40 viva questions with answers
-├── PPT/
-│   └── PPT_CONTENT.md     # 16-slide presentation content
 ├── docs/ARCHITECTURE.md
 ├── docker-compose.yml     # Kafka + Zookeeper + MongoDB
 ├── requirements.txt
