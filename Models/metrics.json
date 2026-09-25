@@ -1,0 +1,24 @@
+{
+  "best_model": "LogisticRegression",
+  "labels": [
+    "negative",
+    "positive"
+  ],
+  "models": {
+    "LogisticRegression": {
+      "accuracy": 0.8170272261478182,
+      "weightedPrecision": 0.8209240140974025,
+      "weightedRecall": 0.8170272261478182,
+      "f1": 0.8185968317905293,
+      "train_seconds": 73.8
+    },
+    "NaiveBayes": {
+      "accuracy": 0.7251599075717491,
+      "weightedPrecision": 0.7896977974311206,
+      "weightedRecall": 0.7251599075717491,
+      "f1": 0.735352361053689,
+      "train_seconds": 38.5
+    }
+  },
+  "trained_at": "2026-09-25T14:33:18"
+}

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+*.log
+.DS_Store
+
+# Large datasets - kept locally, not uploaded to GitHub
+Dataset/
